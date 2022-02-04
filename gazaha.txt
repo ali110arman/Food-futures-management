@@ -1,0 +1,6 @@
+reshte 600
+mix 1200
+kabab 1800
+pitza 2000
+felafel 3000
+vermishel 1850

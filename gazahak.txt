@@ -1,0 +1,6 @@
+reshte 600000
+mix 1200000
+kabab 1800000
+pitza 200000
+felafel 300000
+vermishel 1652000
